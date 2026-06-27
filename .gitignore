@@ -1,0 +1,9 @@
+# Downloaded and generated data
+data/
+
+# macOS metadata
+.DS_Store
+*.DS_Store
+
+# Zone identifier files (Windows/WSL)
+*:Zone.Identifier
